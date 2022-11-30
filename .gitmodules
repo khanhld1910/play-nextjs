@@ -1,0 +1,3 @@
+[submodule "play-next-auth-example"]
+	path = play-next-auth-example
+	url = git@github.com:khanhld1910/play-next-auth-example.git
