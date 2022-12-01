@@ -1,3 +1,6 @@
 [submodule "play-next-auth-example"]
 	path = play-next-auth-example
 	url = git@github.com:khanhld1910/play-next-auth-example.git
+[submodule "firebase-auth"]
+	path = firebase-auth
+	url = git@github.com:khanhld1910/play-nextjs-firebase-auth.git
